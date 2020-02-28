@@ -15,7 +15,7 @@ import operator as op
 
 
 # @param ['Atom', 'Chainlink', 'EngyTime', 'GolfBall', 'Hepta', 'Lsun', 'Target', 'TwoDiamonds', 'WingNut']
-DATASET_NAME = 'WingNut'
+DATASET_NAME = 'Atom'
 
 # Numărul de clustere
 K = 2  # @param {type: "slider", min: 2, max: 10}
